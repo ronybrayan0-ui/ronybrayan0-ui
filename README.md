@@ -11,7 +11,7 @@ Desenvolvedor com foco em desenvolvimento web (HTML, CSS e JavaScript), conhecim
 
 ## 🚀 Projetos em destaque/Repositórios
 
-### [Projetos-Homepage]
+### [Studio Academy — Landing Page Responsiva]
 Site responsivo desenvolvido com HTML, CSS e JavaScript puro, com layout planejado previamente no Figma.
 - 🔗 [Ver demo ao vivo] [https://ronybrayan0-ui.github.io/Projetos-Homepage/]
 - Destaques: responsividade mobile-first.
