@@ -9,9 +9,9 @@ Desenvolvedor com foco em desenvolvimento web (HTML, CSS e JavaScript), conhecim
 - **Design:** Figma
 - **Controle de versão:** Git / Git Bash
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos em destaque/Repositórios
 
-### [Homepage - Studio Academy](https://github.com/ronybrayan0-ui/Projeto-Homepage)
+### [Projetos-Homepage]
 Site responsivo desenvolvido com HTML, CSS e JavaScript puro, com layout planejado previamente no Figma.
 - 🔗 [Ver demo ao vivo] [https://ronybrayan0-ui.github.io/Projetos-Homepage/]
 - Destaques: responsividade mobile-first.
